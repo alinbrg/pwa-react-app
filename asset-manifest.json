@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alinbrg/pwa-react-app/static/css/main.e314422d.css",
+    "main.js": "/alinbrg/pwa-react-app/static/js/main.466aa990.js",
+    "index.html": "/alinbrg/pwa-react-app/index.html",
+    "main.e314422d.css.map": "/alinbrg/pwa-react-app/static/css/main.e314422d.css.map",
+    "main.466aa990.js.map": "/alinbrg/pwa-react-app/static/js/main.466aa990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e314422d.css",
+    "static/js/main.466aa990.js"
+  ]
+}
